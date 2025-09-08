@@ -1,0 +1,20 @@
+.img-fluid{
+    border-radius:40%;
+    width:300px;
+    height:300px
+}
+body {
+  background-color: #E6CFA9;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  @media (max-width:900x) and (min-width:600px) {
+    /* for screens beteen 600px to 900px */
+  }
+  padding:10px;
+  border: black 10px solid;
+}
+.nav-link{
+  color: black;
+}
